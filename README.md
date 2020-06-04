@@ -13,6 +13,28 @@
 
 </p>
 
+## Table of Contents 📑
+
+* [About the Project 🔍](#about-the-project)
+* [Process 💡](#process)
+* [Contact ☎](#contact)
+
+
+
+
+## About The Project 🔍
+
+Data visualization for the amount of passes and failures for Mapletree lifts over time.
+
+
+
+
+## Process 💡
+
+The challenge was splitting the column containing contributors' full names into two columns containing their first and last names after dropping duplicates and unwanted columns. Seeing as the names were of varying lengths, I did a filter by splitting the strings, then testing the number of splits and using that as a boolean mask to assign the rows with the respective components of the split.
+
+
+
 
 ## Contact ☎
 
