@@ -31,7 +31,7 @@ Data visualization for the amount of passes and failures for Mapletree lifts ove
 
 ## Process 💡
 
-The challenge was splitting the column containing contributors' full names into two columns containing their first and last names after dropping duplicates and unwanted columns. Seeing as the names were of varying lengths, I did a filter by splitting the strings, then testing the number of splits and using that as a boolean mask to assign the rows with the respective components of the split.
+The challenge was converting the datetime objects into readable strings, where I had to write a user-defined function to map each integer to the month name, and use a lambda function afterwards.
 
 
 
