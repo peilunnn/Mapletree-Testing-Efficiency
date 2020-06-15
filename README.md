@@ -23,8 +23,7 @@
 
 ## About The Project :eyes:
 
-![Alt text](C:\Users\admin\Desktop\Coding Projects\Others\Mapletree Testing Efficiency\Mapletree efficiency bar chart updated.png
-?raw=true "Title")
+![alt text](https://i.ibb.co/ZBW8mdD/Mapletree-efficiency-bar-chart-updated.png)
 Data visualization for the amount of passes and failures for Mapletree lifts over time.
 
 
