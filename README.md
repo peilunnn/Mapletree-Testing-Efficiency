@@ -24,6 +24,7 @@
 ## About The Project :eyes:
 
 ![alt text](https://i.ibb.co/ZBW8mdD/Mapletree-efficiency-bar-chart-updated.png)
+
 Data visualization for the amount of passes and failures for Mapletree lifts over time.
 
 
