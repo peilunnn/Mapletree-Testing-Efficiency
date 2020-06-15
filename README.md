@@ -1,6 +1,6 @@
   <!-- TITLE -->
 
-  <h1 align="center"> Mapletree Testing Efficiency 🏗</a></h1>
+  <h1 align="center"> 🏗 Mapletree Testing Efficiency 🏗</a></h1>
   <p align="center">
     A mini project to create a stacked bar chart of the number of passes and failures over time. Built using pandas and matplotlib.
     <br />
@@ -13,30 +13,22 @@
 
 </p>
 
-## Table of Contents 📑
+## Table of Contents :notebook_with_decorative_cover:
 
-* [About the Project 🔍](#about-the-project)
-* [Process 💡](#process)
-* [Contact ☎](#contact)
-
+* [About the Project :eyes:](#about-the-project)
+* [Social Media :fire:](#contact)
 
 
 
-## About The Project 🔍
+
+## About The Project :eyes:
 
 Data visualization for the amount of passes and failures for Mapletree lifts over time.
 
 
 
 
-## Process 💡
-
-The challenge was converting the datetime objects into readable strings, where I had to write a user-defined function to map each integer to the month name, and use a lambda function afterwards.
-
-
-
-
-## Contact ☎
+## Social Media :fire:
 
 🥂**Pei Lun** 
 
