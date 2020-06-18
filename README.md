@@ -17,7 +17,7 @@
 
 * [About the Project :eyes:](#about-the-project)
 * [Social Media :fire:](#contact)
-
+<br /><br /><br />
 
 
 
@@ -26,7 +26,7 @@
 ![alt text](https://i.ibb.co/ZBW8mdD/Mapletree-efficiency-bar-chart-updated.png)
 
 Data visualization for the amount of passes and failures for Mapletree lifts over time.
-
+<br /><br /><br />
 
 
 
