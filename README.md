@@ -5,7 +5,7 @@
     A mini project to create a stacked bar chart of the number of passes and failures over time. Built using pandas and matplotlib.
     <br />
     <br />
-    <a href="https://github.com/peilunnn/Mapletree-Testing-Efficiency">Source Code</a>
+    <a href="https://github.com/peilunnn/MapletreeTestingEfficiency/blob/master/Mapletree%20Testing%20Efficiency.ipynb">Source Code</a>
     ·
     <a href="https://github.com/peilunnn/Mapletree-Testing-Efficiency/issues">Report Bug</a>
     ·
